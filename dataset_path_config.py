@@ -1,0 +1,5 @@
+bird_dataset_path = "/media/wjl/Dpan/wyp/Fine-grained-data/CUB_200_2011"
+car_dataset_path = "/media/wjl/Dpan/wyp/Fine-grained-data/Car"
+aircraft_dataset_path = "/media/wjl/Dpan/wyp/Fine-grained-data/fgvc-aircraft-2013b/data"
+dog_dataset_path = "/media/wjl/Dpan/wyp/Fine-grained-data/Dog"
+nabirds_dataset_path = "/media/wjl/Dpan/wyp/Fine-grained-data/nabirds"
